@@ -1,6 +1,6 @@
 export const surpriseConfig = {
   // Customize these first.
-  friendName: 'رذاذ',
+  friendName: 'رهف',
   graduationYear: '2026',
   senderName: 'انور',
 
